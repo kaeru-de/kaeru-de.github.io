@@ -8,9 +8,13 @@
 * joyful
 * allways hungry
 
-# Quote
+## Quote
 As Schweinchen Schlau keeps saying:
 
 > Oink, oink!
 > Qiek.
+
+## Image
+
+<img src="https://pbs.twimg.com/profile_images/673213486864945153/VHCtOLgI.jpg" />
 
